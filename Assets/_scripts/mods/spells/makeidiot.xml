@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<spellTemplate>
+  <name>makeidiot</name>
+  <data>
+    <area>1</area>
+    <range>9</range>
+    <modTarget>sorcery</modTarget><!-- Reserved Values: health-->
+    <modAmount>2</modAmount>
+    <modOperation>sub</modOperation><!--sub,add,multi,div    >Means -, +, *, or /-->
+  </data>
+</spellTemplate>

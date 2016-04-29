@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<unitTemplate>
+  <type>peon</type>
+  <data>
+    <health>10</health>
+    <movement>2</movement>
+    <!--Add more below, and make sure to add the type-->
+    <attributes>
+      <strength type="stat">3</strength>
+      <agility type="stat">3</agility>
+      <prana type="stat">3</prana>
+      <melee type="skill">1</melee>
+      <marksmanship type="skill">1</marksmanship>
+      <sorcery type="skill">1</sorcery>
+    </attributes>
+  </data>
+</unitTemplate>

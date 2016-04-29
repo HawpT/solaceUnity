@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<unitTemplate>
+  <type>grunt</type>
+  <data>
+    <health>20</health>
+    <movement>5</movement>
+    <!--Add more below, and make sure to add the type-->
+    <attributes>
+      <strength type="stat">8</strength>
+      <agility type="stat">5</agility>
+      <prana type="stat">2</prana>
+      <constitution type="stat">9</constitution>
+      <melee type="skill">5</melee>
+      <marksmanship type="skill">4</marksmanship>
+      <sorcery type="skill">1</sorcery>
+      <badassness type="wtf">9001</badassness>
+    </attributes>
+  </data>
+</unitTemplate>

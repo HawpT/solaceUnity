@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<spellTemplate>
+  <name>fireball</name>
+  <data>
+    <area>1</area>
+    <range>6</range>
+    <modTarget>health</modTarget><!-- Reserved Values: health-->
+    <modAmount>5</modAmount>
+    <modOperation>sub</modOperation><!--sub,add,multi,div    >Means -, +, *, or /-->
+  </data>
+</spellTemplate>
